@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/gallery-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gallery-main"
+	}
+}

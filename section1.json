@@ -1,0 +1,15 @@
+[
+    {
+        "index": 0,
+        "source": "./sample/img10.jpg"
+    },
+    {
+        "index": 1,
+        "source": "./sample/img2.jpg"
+    },
+    {
+        "index": 2,
+        "source": "./sample/img3.jpg"
+    }
+    
+]
